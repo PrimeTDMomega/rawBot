@@ -18,3 +18,6 @@ Compile it: ```$ javac Example.java -cp target/rawBot-1.0.jar```
 Run it on a server: ```$ java -cp target/rawBot-1.0.jar:. Example <host> [port]```  
 
 After authentication your tokens will be saved in ```token.txt``` for future uses.
+
+### Where is it ?
+I'm uploading but GitHub is being a bitch
