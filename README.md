@@ -19,5 +19,14 @@ Run it on a server: ```$ java -cp target/rawBot-1.0.jar:. Example <host> [port]`
 
 After authentication your tokens will be saved in ```token.txt``` for future uses.
 
-### Where is it ?
-I'm uploading but GitHub is being a bitch
+### CREDITS
+
+PrimeTDMomega - Developer
+<br>
+KaaskopThomas - Existing
+
+### Note
+ - This is not the same bot API used for the TDMBOT/ValorBot on 8b8t 
+ - Updates likely won't happen as this is just a simple API written while making one for TDMBOT/ValorBot
+ - For support don't DM me because its just a simple bot and it does not work you can use something like MineFlayer
+
