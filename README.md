@@ -26,8 +26,8 @@ PrimeTDMomega - Developer
 KaaskopThomas - Existing
 
 ### Note
- - This is not the same bot API used for the TDMBOT/ValorBot on 8b8t 
- - Updates likely won't happen as this is just a simple API written while making one for TDMBOT/ValorBot
+ - This is not the same bot used for the TDMBOT/ValorBot on 8b8t 
+ - Updates likely won't happen as this is just a simple bot written while making one for TDMBOT/ValorBot
  - For support don't DM me because its just a simple bot and if you can't get it to work use something like MineFlayer it isn't easier but it recieves updates so do that
  
  scanBot can be found here - https://github.com/PrimeTDMomega/rawBot/tree/main/scanBot
